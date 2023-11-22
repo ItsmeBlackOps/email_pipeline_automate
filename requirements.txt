@@ -1,4 +1,3 @@
-re
 datetime
 pytz
 python-dateutil
