@@ -2,6 +2,5 @@ regex
 datetime
 pytz
 python-dateutil
-json
 psycopg2
 pandas
